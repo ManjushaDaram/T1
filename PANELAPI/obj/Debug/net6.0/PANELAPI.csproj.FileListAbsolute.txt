@@ -1,0 +1,108 @@
+C:\VSCODE\POC\Microservices\T1\PANELAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\VSCODE\POC\Microservices\T1\PANELAPI\bin\Debug\net6.0\appsettings.json
+C:\VSCODE\POC\Microservices\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.exe
+C:\VSCODE\POC\Microservices\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.deps.json
+C:\VSCODE\POC\Microservices\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.runtimeconfig.json
+C:\VSCODE\POC\Microservices\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.dll
+C:\VSCODE\POC\Microservices\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.pdb
+C:\VSCODE\POC\Microservices\T1\PANELAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\VSCODE\POC\Microservices\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\VSCODE\POC\Microservices\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\VSCODE\POC\Microservices\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.AssemblyReference.cache
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.AssemblyInfoInputs.cache
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.AssemblyInfo.cs
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.CoreCompileInputs.cache
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\scopedcss\bundle\PANELAPI.styles.css
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.CopyComplete
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.dll
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\refint\PANELAPI.dll
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.pdb
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.genruntimeconfig.cache
+C:\VSCODE\POC\Microservices\T1\PANELAPI\obj\Debug\net6.0\ref\PANELAPI.dll
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.exe
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.deps.json
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.runtimeconfig.json
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.dll
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.pdb
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.AssemblyReference.cache
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.AssemblyInfoInputs.cache
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.AssemblyInfo.cs
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\scopedcss\bundle\PANELAPI.styles.css
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.CopyComplete
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.dll
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\refint\PANELAPI.dll
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.pdb
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.genruntimeconfig.cache
+C:\Users\Dharmin.patel\OneDrive - Accenture\Microservices\Microservices\T1\PANELAPI\obj\Debug\net6.0\ref\PANELAPI.dll
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.exe
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.deps.json
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.runtimeconfig.json
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.dll
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.pdb
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.AssemblyReference.cache
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.AssemblyInfoInputs.cache
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.AssemblyInfo.cs
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\scopedcss\bundle\PANELAPI.styles.css
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.CopyComplete
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.dll
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\refint\PANELAPI.dll
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.pdb
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.genruntimeconfig.cache
+C:\Users\Dharmin.patel\Desktop\Work\T1\PANELAPI\obj\Debug\net6.0\ref\PANELAPI.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.exe
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.deps.json
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.runtimeconfig.json
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\bin\Debug\net6.0\PANELAPI.pdb
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.AssemblyReference.cache
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.AssemblyInfoInputs.cache
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.AssemblyInfo.cs
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.CoreCompileInputs.cache
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\scopedcss\bundle\PANELAPI.styles.css
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.csproj.CopyComplete
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\refint\PANELAPI.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.pdb
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\PANELAPI.genruntimeconfig.cache
+C:\Users\manjusha.daram\Downloads\T1\T1\PANELAPI\obj\Debug\net6.0\ref\PANELAPI.dll
