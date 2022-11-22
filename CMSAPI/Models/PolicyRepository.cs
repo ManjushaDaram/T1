@@ -3,6 +3,7 @@ using CMSAPI.Models;
 public class PolicyRepository : IPolicyRepository
 {
     private List<Policy> _Policies;
+    private List<UserPolicy> _MyPolicies;
     public PolicyRepository()
     {
         _Policies = new List<Policy>();
@@ -52,7 +53,7 @@ public class PolicyRepository : IPolicyRepository
             Gender = "F",
             AgeGroup = "18-30",
             Members = "U+C",
-            Insurer="SBI",
+            Insurer = "SBI",
             pgrade = 11,
             pstatus = "A"
         });
@@ -87,6 +88,46 @@ public class PolicyRepository : IPolicyRepository
             Insurer = "ICICI",
             pgrade = 1,
             pstatus = "A"
+        });
+
+        _MyPolicies = new List<UserPolicy>();
+        _MyPolicies.Add(new UserPolicy
+        {
+            Uid = 1,
+            PolicyId = "e12r344y",
+            pid = 1,
+            pname = "Group Mediclaim Policy",
+            pdesc_short = "ShortDescription",
+            pdesc = "Health insurance takes care of your medical expenses and ensures that out-of-pocket expenses are curtailed up to the Sum insured",
+            ptype = "GMC",
+            pCoverage = 300000.00,
+            pPremium = 3761,
+            Gender = "M",
+            AgeGroup = "18-30",
+            Members = "U",
+            Insurer = "ICICI",
+            pgrade = 12,
+            pstatus = "A"
+
+        });
+        _MyPolicies.Add(new UserPolicy
+        {
+            Uid = 2,
+            PolicyId = "e12r654y",
+            pid = 1,
+            pname = "Group Mediclaim Policy",
+            pdesc_short = "ShortDescription",
+            pdesc = "Health insurance takes care of your medical expenses and ensures that out-of-pocket expenses are curtailed up to the Sum insured",
+            ptype = "GMC",
+            pCoverage = 300000.00,
+            pPremium = 3761,
+            Gender = "M",
+            AgeGroup = "18-30",
+            Members = "U",
+            Insurer = "ICICI",
+            pgrade = 12,
+            pstatus = "A"
+
         });
     }
     public List<Policy> CreatePolicy(Policy policy)
@@ -151,5 +192,16 @@ public class PolicyRepository : IPolicyRepository
         //     return result;
         // else
         //     return policy;
+    }
+
+    public List<UserPolicy> GetMyPolicies(int uid)
+    {
+        return _MyPolicies.Where(x => x.Uid == uid).ToList();
+    }
+
+    public bool AddPolicy(UserPolicy policy)
+    {
+        _MyPolicies.Add(policy);
+        return true;
     }
 }

@@ -62,6 +62,17 @@ public class PolicyController : ControllerBase
     {
         return _iPolicyRepository.DeletePolicy(pid);
     }
+    
+    [HttpPost("AddPolicy")]
+    public bool AddPolicy(UserPolicy policy)
+    {
+        return _iPolicyRepository.AddPolicy(policy);
+    }
 
+    [HttpGet("MyPolicy")]
+    public List<UserPolicy> GetMyPolicies(int uid)
+    {
+        return _iPolicyRepository.GetMyPolicies(uid);
+    }
     //Test Branches
 }

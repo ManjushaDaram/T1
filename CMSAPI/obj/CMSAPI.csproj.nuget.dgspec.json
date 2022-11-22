@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\manjusha.daram\\Downloads\\T1\\T1\\CMSAPI\\CMSAPI.csproj": {}
+    "C:\\Users\\manjusha.daram\\Downloads\\T1\\T1\\CMSAPI\\CMSAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\manjusha.daram\\Downloads\\T1\\T1\\CMSAPI\\CMSAPI.csproj": {
+    "C:\\Users\\manjusha.daram\\Downloads\\T1\\T1\\CMSAPI\\CMSAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\manjusha.daram\\Downloads\\T1\\T1\\CMSAPI\\CMSAPI.csproj",
+        "projectUniqueName": "C:\\Users\\manjusha.daram\\Downloads\\T1\\T1\\CMSAPI\\CMSAPI.csproj",
         "projectName": "CMSAPI",
-        "projectPath": "c:\\Users\\manjusha.daram\\Downloads\\T1\\T1\\CMSAPI\\CMSAPI.csproj",
+        "projectPath": "C:\\Users\\manjusha.daram\\Downloads\\T1\\T1\\CMSAPI\\CMSAPI.csproj",
         "packagesPath": "C:\\Users\\manjusha.daram\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\manjusha.daram\\Downloads\\T1\\T1\\CMSAPI\\obj\\",
+        "outputPath": "C:\\Users\\manjusha.daram\\Downloads\\T1\\T1\\CMSAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manjusha.daram\\AppData\\Roaming\\NuGet\\NuGet.Config",

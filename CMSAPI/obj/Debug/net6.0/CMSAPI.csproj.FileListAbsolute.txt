@@ -106,3 +106,10 @@ C:\Users\manjusha.daram\Downloads\T1\T1\CMSAPI\obj\Debug\net6.0\refint\CMSAPI.dl
 C:\Users\manjusha.daram\Downloads\T1\T1\CMSAPI\obj\Debug\net6.0\CMSAPI.pdb
 C:\Users\manjusha.daram\Downloads\T1\T1\CMSAPI\obj\Debug\net6.0\CMSAPI.genruntimeconfig.cache
 C:\Users\manjusha.daram\Downloads\T1\T1\CMSAPI\obj\Debug\net6.0\ref\CMSAPI.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\CMSAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\CMSAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\CMSAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\CMSAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\CMSAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\CMSAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manjusha.daram\Downloads\T1\T1\CMSAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
